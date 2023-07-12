@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>SimpleApp/SimpleCollectorEB</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>226</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Find-in-Files>
+        
+        
+        
+        <PreferedWindows>
+          <Position>3</Position>
+          <ScreenPosX>0</ScreenPosX>
+          <ScreenPosY>0</ScreenPosY>
+          <Windows>
+            <Window>
+              <Factory>Build</Factory>
+            </Window>
+          </Windows>
+        </PreferedWindows>
+      <ColumnWidth0>440</ColumnWidth0><ColumnWidth1>62</ColumnWidth1><ColumnWidth2>754</ColumnWidth2></Find-in-Files>
+      <Build>
+        <PreferedWindows>
+          <Position>3</Position>
+          <ScreenPosX>0</ScreenPosX>
+          <ScreenPosY>0</ScreenPosY>
+          <Windows>
+            <Window>
+              <Factory>Find-in-Files</Factory>
+            </Window>
+          </Windows>
+        </PreferedWindows>
+        
+        
+        
+        
+      <ColumnWidth0>19</ColumnWidth0><ColumnWidth1>916</ColumnWidth1><ColumnWidth2>244</ColumnWidth2><ColumnWidth3>61</ColumnWidth3></Build>
+      <TerminalIO/>
+      <Breakpoints>
+        <PreferedWindows>
+          <Position>3</Position>
+          <ScreenPosX>0</ScreenPosX>
+          <ScreenPosY>0</ScreenPosY>
+          <Windows/>
+        </PreferedWindows>
+      </Breakpoints>
+    <Debug-Log/></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-7313-20515</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>SimpleApp</ExpandedNode><ExpandedNode>SimpleApp/App</ExpandedNode><ExpandedNode>SimpleApp/ZMain</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-20864-26811</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-22434-4248</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-60-8761</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>F:\fancong\&#x8D44;&#x6599;\&#x5C1A;&#x9633;2530&#x5957;&#x4eF6;&#x5149;&#x76D8;\10__CC2530&#x7A0B;&#x5e8F;&#x5305;B_&#x534F;&#x8BAe;&#x6808;&#x5B9e;&#x9A8C;\&#x5341;&#x548C;&#x5341;&#x4e8C;_ZStack-CC2530-2.3.0-1.4.0_&#x4e24;&#x4e2A;&#x5B9e;&#x9A8C;_&#x4e13;&#x4e1A;&#x5C1A;&#x9633;\Projects\zstack\Samples\SimpleApp\Source\SimpleCollector.c</Filename><XPos>0</XPos><YPos>222</YPos><SelStart>8341</SelStart><SelEnd>8341</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>F:\fancong\&#x8D44;&#x6599;\&#x5C1A;&#x9633;2530&#x5957;&#x4eF6;&#x5149;&#x76D8;\10__CC2530&#x7A0B;&#x5e8F;&#x5305;B_&#x534F;&#x8BAe;&#x6808;&#x5B9e;&#x9A8C;\&#x5341;&#x548C;&#x5341;&#x4e8C;_ZStack-CC2530-2.3.0-1.4.0_&#x4e24;&#x4e2A;&#x5B9e;&#x9A8C;_&#x4e13;&#x4e1A;&#x5C1A;&#x9633;\Projects\zstack\ZMain\TI2530DB\ZMain.c</Filename><XPos>0</XPos><YPos>147</YPos><SelStart>5212</SelStart><SelEnd>5212</SelEnd></Tab><ActiveTab>1</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-013889e0><key>iaridepm.enu1</key></Toolbar-013889e0></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>558</Bottom><Right>300</Right><x>-2</x><y>-2</y><xscreen>-3092334</xscreen><yscreen>-1769491</yscreen><sizeHorzCX>-2147454166</sizeHorzCX><sizeHorzCY>-2147440533</sizeHorzCY><sizeVertCX>209722</sizeVertCX><sizeVertCY>679612</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>221</Bottom><Right>1442</Right><x>-2</x><y>-2</y><xscreen>1444</xscreen><yscreen>223</yscreen><sizeHorzCX>1002778</sizeHorzCX><sizeHorzCY>270631</sizeHorzCY><sizeVertCX>156250</sizeVertCX><sizeVertCY>211165</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

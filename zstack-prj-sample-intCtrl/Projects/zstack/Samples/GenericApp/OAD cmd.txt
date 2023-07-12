@@ -1,0 +1,1 @@
+"$PROJ_DIR$\..\..\..\Tools\CC2530DB\oad.exe" "$PROJ_DIR$\CoordinatorEB-Pro\Exe\GenericApp.sim" "$PROJ_DIR$\CoordinatorEB-Pro\Exe\GenericApp.bin"

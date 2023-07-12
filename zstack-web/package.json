@@ -1,0 +1,37 @@
+{
+  "name": "zstack-web",
+  "private": true,
+  "version": "1.0.0",
+  "author": "[42020xxx-Himmelbleu] zstack web",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --mode development --host 0.0.0.0",
+    "build": "vue-tsc && vite build --mode production",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "dependencies": {
+    "@vueuse/core": "^10.1.2",
+    "axios": "^1.4.0",
+    "echarts": "^5.4.2",
+    "element-plus": "^2.3.6",
+    "highlight.js": "^11.8.0",
+    "mqtt": "^4.3.7",
+    "pinia": "^2.0.33",
+    "vue": "^3.2.47",
+    "vue-router": "^4.1.6"
+  },
+  "devDependencies": {
+    "@iconify-json/ep": "^1.1.10",
+    "@iconify-json/tabler": "^1.1.79",
+    "@vitejs/plugin-vue": "^4.1.0",
+    "sass": "^1.63.3",
+    "sass-loader": "^13.3.1",
+    "typescript": "^5.0.2",
+    "unocss": "^0.53.1",
+    "unplugin-auto-import": "^0.16.4",
+    "unplugin-icons": "^0.16.3",
+    "unplugin-vue-components": "^0.25.1",
+    "vite": "^4.3.2",
+    "vue-tsc": "^1.4.2"
+  }
+}

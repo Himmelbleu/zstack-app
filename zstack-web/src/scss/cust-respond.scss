@@ -1,0 +1,14 @@
+:root {
+  --l-respond-text: 14px;
+}
+
+// 375 ~ 1400 都是 14px，超过 1500px 就开始依次往上递增
+@for $i from 1 through 30 {
+  $min: $i * 100 + 1500px;
+
+  @media screen and (min-width: $min) {
+    :root {
+      --l-respond-text: #{calc($min / 100)};
+    }
+  }
+}

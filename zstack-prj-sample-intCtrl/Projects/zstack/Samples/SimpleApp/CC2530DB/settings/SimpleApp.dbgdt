@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log/>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>21</ColumnWidth0><ColumnWidth1>12</ColumnWidth1><ColumnWidth2>12</ColumnWidth2><ColumnWidth3>12</ColumnWidth3></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>207</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        
+        
+      <MixedMode>1</MixedMode><CodeCovShow>0</CodeCovShow></Disassembly>
+    </Static>
+    <Windows>
+      
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-18312-22151</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-17789-22161</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-29061-22154</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>SimpleApp</ExpandedNode><ExpandedNode>SimpleApp/App</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-7041-22158</Identity>
+            <TabName>Disassembly</TabName>
+            <Factory>Disassembly</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>F:\fancong\&#x8D44;&#x6599;\&#x5C1A;&#x9633;2530&#x5957;&#x4eF6;&#x5149;&#x76D8;\10__CC2530&#x7A0B;&#x5e8F;&#x5305;B_&#x534F;&#x8BAe;&#x6808;&#x5B9e;&#x9A8C;\&#x5341;&#x548C;&#x5341;&#x4e8C;_ZStack-CC2530-2.3.0-1.4.0_&#x4e24;&#x4e2A;&#x5B9e;&#x9A8C;_&#x4e13;&#x4e1A;&#x5C1A;&#x9633;\Projects\zstack\Samples\SimpleApp\Source\SimpleCollector.c</Filename><XPos>0</XPos><YPos>66</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>F:\fancong\&#x8D44;&#x6599;\&#x5C1A;&#x9633;2530&#x5957;&#x4eF6;&#x5149;&#x76D8;\10__CC2530&#x7A0B;&#x5e8F;&#x5305;B_&#x534F;&#x8BAe;&#x6808;&#x5B9e;&#x9A8C;\&#x5341;&#x548C;&#x5341;&#x4e8C;_ZStack-CC2530-2.3.0-1.4.0_&#x4e24;&#x4e2A;&#x5B9e;&#x9A8C;_&#x4e13;&#x4e1A;&#x5C1A;&#x9633;\Projects\zstack\Samples\SimpleApp\Source\SimpleController.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>F:\fancong\&#x8D44;&#x6599;\&#x5C1A;&#x9633;2530&#x5957;&#x4eF6;&#x5149;&#x76D8;\10__CC2530&#x7A0B;&#x5e8F;&#x5305;B_&#x534F;&#x8BAe;&#x6808;&#x5B9e;&#x9A8C;\&#x5341;&#x548C;&#x5341;&#x4e8C;_ZStack-CC2530-2.3.0-1.4.0_&#x4e24;&#x4e2A;&#x5B9e;&#x9A8C;_&#x4e13;&#x4e1A;&#x5C1A;&#x9633;\Projects\zstack\Samples\SimpleApp\Source\SimpleSensor.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>F:\fancong\&#x8D44;&#x6599;\&#x5C1A;&#x9633;2530&#x5957;&#x4eF6;&#x5149;&#x76D8;\10__CC2530&#x7A0B;&#x5e8F;&#x5305;B_&#x534F;&#x8BAe;&#x6808;&#x5B9e;&#x9A8C;\&#x5341;&#x548C;&#x5341;&#x4e8C;_ZStack-CC2530-2.3.0-1.4.0_&#x4e24;&#x4e2A;&#x5B9e;&#x9A8C;_&#x4e13;&#x4e1A;&#x5C1A;&#x9633;\Components\stack\sapi\sapi.c</Filename><XPos>0</XPos><YPos>702</YPos><SelStart>25234</SelStart><SelEnd>25234</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>F:\fancong\&#x8D44;&#x6599;\&#x5C1A;&#x9633;2530&#x5957;&#x4eF6;&#x5149;&#x76D8;\10__CC2530&#x7A0B;&#x5e8F;&#x5305;B_&#x534F;&#x8BAe;&#x6808;&#x5B9e;&#x9A8C;\&#x5341;&#x548C;&#x5341;&#x4e8C;_ZStack-CC2530-2.3.0-1.4.0_&#x4e24;&#x4e2A;&#x5B9e;&#x9A8C;_&#x4e13;&#x4e1A;&#x5C1A;&#x9633;\Projects\zstack\ZMain\TI2530DB\ZMain.c</Filename><XPos>0</XPos><YPos>161</YPos><SelStart>5311</SelStart><SelEnd>5311</SelEnd></Tab><ActiveTab>4</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-01388940><key>iaridepm.enu1</key></Toolbar-01388940></Sizes></Row0><Row1><Sizes><Toolbar-07ae5180><key>debuggergui.enu1</key></Toolbar-07ae5180></Sizes></Row1></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>583</Bottom><Right>281</Right><x>-2</x><y>-2</y><xscreen>225</xscreen><yscreen>174</yscreen><sizeHorzCX>156250</sizeHorzCX><sizeHorzCY>211165</sizeHorzCY><sizeVertCX>196528</sizeVertCX><sizeVertCY>709951</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>583</Bottom><Right>223</Right><x>-2</x><y>-2</y><xscreen>225</xscreen><yscreen>174</yscreen><sizeHorzCX>156250</sizeHorzCX><sizeHorzCY>211165</sizeHorzCY><sizeVertCX>156250</sizeVertCX><sizeVertCY>709951</sizeVertCY></Rect></Wnd2></Sizes></Row0></Right><Bottom><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>172</Bottom><Right>1442</Right><x>-2</x><y>-2</y><xscreen>1444</xscreen><yscreen>174</yscreen><sizeHorzCX>1002778</sizeHorzCX><sizeHorzCY>211165</sizeHorzCY><sizeVertCX>156250</sizeVertCX><sizeVertCY>211165</sizeVertCY></Rect></Wnd0></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+

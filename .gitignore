@@ -1,0 +1,27 @@
+HELP.md
+zstack-serve/target/
+zstack-serve/.mvn/
+zstack-client/__pycache__
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### VS Code ###
+.vscode/
+
+# Logs
+zstack-web/logs
+zstack-web/*.log
+zstack-web/npm-debug.log*
+zstack-web/yarn-debug.log*
+zstack-web/yarn-error.log*
+zstack-web/pnpm-debug.log*
+zstack-web/lerna-debug.log*
+zstack-web/node_modules
+zstack-web/node_modules/.*
+
+# Editor directories and files
+.DS_Store

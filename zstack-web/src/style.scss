@@ -1,0 +1,24 @@
+@import "element-plus/theme-chalk/dark/css-vars.css";
+@import "@/scss/index";
+
+html.dark {
+  // 背景颜色
+  --l-background-bg: #222222;
+  // 主题规定的文字颜色
+  --text-a: #a7a7a7;
+  --text-b: #999999;
+  --text-c: #7c7c7c;
+  --text-d: #656565;
+  --text-primary: #409eff;
+}
+
+html.light {
+  // 背景颜色
+  --l-background-bg: #f8f8f8;
+  // 主题规定的文字颜色
+  --text-a: #383838;
+  --text-b: #686868;
+  --text-c: #969696;
+  --text-d: #dedede;
+  --text-primary: #409eff;
+}

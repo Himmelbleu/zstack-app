@@ -1,0 +1,26 @@
+server:
+  port: 9000
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: 123456
+    url: jdbc:mysql://localhost:3306/emqxdata?allowMultiQueries=true
+
+mybatis:
+  mapper-locations: classpath:mappers/*.xml
+  type-aliases-package: com.zrf.zstackserve.pojos
+  configuration:
+    map-underscore-to-camel-case: true
+    call-setters-on-nulls: true
+
+logging:
+  level:
+    com.zrf.zstackserve.mappers: debug
+
+pagehelper:
+  helper-dialect: mysql
+  reasonable: true
+  support-methods-arguments: true
+  params: count=countsql
